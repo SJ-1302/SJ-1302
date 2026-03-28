@@ -56,10 +56,6 @@ Quant Developer • Trader • Real-Time Systems Builder
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SJ-1302&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=SJ-1302&theme=tokyonight&hide_border=true"/>
 </p>
 
