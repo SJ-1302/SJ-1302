@@ -22,7 +22,7 @@
 #   About Me
 
 <p align="center">
-Quant Developer • Trader • AI Engineer • Real-Time Systems Builder
+Quant Developer • Quant Trader • Competitive Programmer • Real-Time Systems Builder
 </p>
 
 I am a **Computer Science (AI & ML) student at VIT Bhopal** with a strong focus on building **data-driven financial systems**. My work lies at the intersection of **quantitative finance, machine learning, and real-time system design**.
@@ -30,15 +30,15 @@ I am a **Computer Science (AI & ML) student at VIT Bhopal** with a strong focus 
 I bring a unique combination of:
 
 * 📈 **5+ years of active trading experience**, applying systematic options strategies
-* 🧠 Strong foundation in **quantitative modeling**, including Options Greeks, Black-Scholes, and Monte Carlo simulations
+* 🧠 Strong foundation in **quantitative modeling**, including Options Greeks Analysis and Derivative Strategies 
 * ⚡ Experience building **real-time platforms**, APIs, and data pipelines
 * 📊 Practical exposure to **data analytics and predictive modeling** through internships
 
 I am particularly interested in:
 
-* Quantitative Trading & HFT Systems
 * Algorithmic Strategy Development
 * AI applications in financial markets
+* Quantitative Trading & HFT Systems
 
 🎯 **Goal:** To build scalable, low-latency trading systems and work at top-tier quant firms.
 
@@ -88,44 +88,32 @@ I am particularly interested in:
 
 ---
 
-# 🚀 Featured Projects
 
-## 🔮 Real-Time Event Prediction Market
+# 🎯 Recruiter Snapshot
 
-**Tech:** C++, WebSockets, PostgreSQL, LLM Integration
-
-* Built a **real-time trading platform** for event-based markets
-* Integrated **LLM pipeline** to automatically detect trends and create markets
-* Designed a **dynamic pricing engine** based on sentiment and incoming data
-* 🚀 Reduced manual market creation effort by **90%**
-
-
-## 📊 Options Pricing & Greeks Dashboard
-
-**Tech:** Python, Streamlit, NSE API, Plotly
-
-* Developed a **live options analytics dashboard** using NSE option chain data
-* Implemented **Black-Scholes model with full Greeks computation**
-* Enabled traders to **analyze strategies and manage risk in real time**
-
-
-## 📉 Portfolio VaR Simulation & Backtesting
-
-**Tech:** Python, NumPy, Pandas, SciPy
-
-* Built a **quantitative risk engine** using Monte Carlo simulations
-* Calculated **VaR at 95% and 99% confidence levels**
-* Backtested using **Kupiec’s Proportion of Failures Test**
-* Validated model accuracy against real market behavior
+* ⚡ Codeforces Specialist (1500+)
+* 🧠 LeetCode Top 7%
+* 💻 700+ DSA problems
+* 📈 Built real trading + pricing systems
+* ⚡ Strong in low-latency + system design
 
 ---
 
-## ⚡ Key Strength Across Projects
+# Featured Projects
 
-* Real-time system design
-* Quantitative modeling & finance
-* Data pipelines & analytics
-* Practical trading application
+##  Real-Time Event Prediction Market
+
+**Tech:** C++, WebSockets, PostgreSQL, LLM Integration
+
+##  Options Pricing & Greeks Dashboard
+
+**Tech:** Python, Streamlit, NSE API, Plotly
+
+
+##  Portfolio VaR Simulation & Backtesting
+
+**Tech:** Python, NumPy, Pandas, SciPy
+
 
 ---
 
@@ -147,15 +135,6 @@ I am particularly interested in:
 <img src="https://raw.githubusercontent.com/SJ-1302/SJ-1302/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
-# 🎯 Recruiter Snapshot
-
-* ⚡ Codeforces Specialist (1500+)
-* 🧠 LeetCode Top 7%
-* 💻 700+ DSA problems
-* 📈 Built real trading + pricing systems
-* ⚡ Strong in low-latency + system design
 
 ---
 
