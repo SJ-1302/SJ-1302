@@ -30,7 +30,7 @@ I am a **Computer Science (AI & ML) student at VIT Bhopal** with a strong focus 
 
 I bring a unique combination of:
 
-* 📈 **8+ years of active trading experience**, applying systematic options strategies
+* 📈 **5+ years of active trading experience**, applying systematic options strategies
 * 🧠 Strong foundation in **quantitative modeling**, including Options Greeks, Black-Scholes, and Monte Carlo simulations
 * ⚡ Experience building **real-time platforms**, APIs, and data pipelines
 * 📊 Practical exposure to **data analytics and predictive modeling** through internships
