@@ -1,4 +1,4 @@
-<h1 align="center">⚡ SHREYANSH JAIN ⚡</h1>
+<h1 align="center"> SHREYANSH JAIN </h1>
 
 <p align="center">
   <a href="https://shreyanshjain.in">
@@ -19,7 +19,7 @@
 
 ---
 
-# 🌌 About Me
+#  About Me
 
 <p align="center">
 Quant Developer • Trader • AI Engineer • Real-Time Systems Builder
