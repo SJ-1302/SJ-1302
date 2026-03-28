@@ -1,4 +1,3 @@
-<!-- ⚡ FINAL GOD-LEVEL QUANT README ⚡ -->
 
 <h1 align="center">⚡ SHREYANSH JAIN ⚡</h1>
 
@@ -9,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Quant+Developer+%7C+ML+Engineer;Options+Trader+%7C+97%25+Return+FY24;Building+Low-Latency+Trading+Systems;C%2B%2B+%7C+Python+%7C+Finance+%7C+AI;Future+HFT+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Quant+Developer+%7C+ML+Engineer;Options+Trader+%7C+97%25+Return+FY24;Building+Low-Latency+Trading+Systems;C%2B%2B+%7C+Python+%7C+Finance+%7C+AI;Future+HFT+Engineer"/>
 </p>
 
 <p align="center">
@@ -18,12 +17,14 @@
 📧 <a href="mailto:shreyanshjain.cse@gmail.com">Email</a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=divider"/>
+
 ---
 
 # 🌌 About Me
 
 <p align="center">
-Quant Developer | Trader | Builder of Real-Time Systems
+Quant Developer • Trader • Real-Time Systems Builder
 </p>
 
 * 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal
@@ -48,13 +49,13 @@ Quant Developer | Trader | Builder of Real-Time Systems
 # 🟢 Live Market Pulse
 
 <p align="center">
-<img src="https://img.shields.io/badge/NIFTY-Tracked-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NIFTY-Tracking-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/INDIA_VIX-Volatility-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Market-Active-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Market-Live-green?style=for-the-badge"/>
 </p>
 
 <p align="center">
-⚡ Always aligned with market conditions & volatility regimes
+⚡ Market-aware execution • Volatility-driven strategies
 </p>
 
 ---
@@ -80,23 +81,23 @@ Quant Developer | Trader | Builder of Real-Time Systems
 
 ## 🔮 Real-Time Event Prediction Market
 
-* Real-time trading platform + LLM automation
-* Dynamic pricing engine
+* ⚡ Real-time trading platform + LLM automation
+* 📊 Dynamic pricing engine
 
 ## 📊 Options Pricing Dashboard
 
-* Black-Scholes + Greeks + NSE data
+* 📡 Black-Scholes + Greeks + NSE data
 
 ## 📉 Portfolio VaR Engine
 
-* Monte Carlo VaR + backtesting
+* 🎯 Monte Carlo VaR + backtesting
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SJ-1302&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SJ-1302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
@@ -105,20 +106,29 @@ Quant Developer | Trader | Builder of Real-Time Systems
 
 ---
 
-# 🐍 Contribution Graph
+# 📈 Activity Curve
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SJ-1302/SJ-1302/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SJ-1302&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🎯 Recruiter Section
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SJ-1302/SJ-1302/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🎯 Recruiter Snapshot
 
 * ⚡ Codeforces Specialist (1500+)
 * 🧠 LeetCode Top 7%
 * 💻 700+ DSA problems
 * 📈 Built real trading + pricing systems
+* ⚡ Strong in low-latency + system design
 
 ---
 
@@ -129,6 +139,8 @@ Quant Developer | Trader | Builder of Real-Time Systems
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+
 <p align="center">
-🔥 Click Portfolio ↑ | Built for Quant Roles 🔥
+🔥 Built for Quant Roles | Designed to Stand Out 🔥
 </p>
