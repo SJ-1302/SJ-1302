@@ -1,21 +1,117 @@
-# Hi 👋, I'm Shreyansh Jain
-🔭 I’m currently working on _________<br>👯 I’m looking to collaborate on _______<br>🌱 I’m currently learning _________<br>💬 Ask me about ____________<br>📫 Reach me by _________@gmail.com<br>⚡ Fun fact ____________
+<h1 align="center">⚡ SHREYANSH JAIN ⚡</h1>
 
+<p align="center">
+  <a href="https://shreyanshjain.in">
+    <img src="https://img.shields.io/badge/🚀_VIEW_PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyanshjain13) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Quant+Developer+%7C+ML+Engineer;Options+Trader+%7C+97%25+Return+FY24;Building+Low-Latency+Trading+Systems;C%2B%2B+%7C+Python+%7C+Finance+%7C+AI;Future+HFT+Engineer" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SJ-1302&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SJ-1302&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-1302&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  🌐 <a href="https://shreyanshjain.in"><b>shreyanshjain.in</b></a> •
+  💼 <a href="https://linkedin.com/in/shreyanshjain13">LinkedIn</a> •
+  📧 <a href="mailto:shreyanshjain.cse@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SJ-1302&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🟢 Live Market Pulse
+
+<p align="center">
+📊 NIFTY 50 | INDIA VIX | Market Awareness Always On ⚡
+</p>
+
+---
+
+# 💹 Portfolio Performance
+
+<p align="center">
+📈 FY24 Return: 97% | Options + Quant Strategies
+</p>
+
+<img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Jan','Feb','Mar','Apr','May','Jun'],datasets:[{label:'Portfolio Growth',data:[100,120,140,160,180,197]}]}}" />
+
+---
+
+# 🌌 About Me
+
+```diff
++ Quant Developer focused on Trading Systems & AI
++ 8+ years of real market experience
++ Builder of real-time financial platforms
+```
+
+* 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal
+* 📊 Options Greeks | Pricing | Risk Modeling
+* ⚡ Low-latency systems + real-time APIs
+* 🎯 Target: Quant / HFT Roles
+
+---
+
+# ⚡ Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,r,sql,ts,postgres,git" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔮 Real-Time Event Prediction Market
+
+* Real-time trading platform + LLM automation
+* Dynamic pricing engine
+
+## 📊 Options Pricing Dashboard
+
+* Black-Scholes + Greeks + NSE data
+
+## 📉 Portfolio VaR Engine
+
+* Monte Carlo VaR + backtesting
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SJ-1302&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SJ-1302/SJ-1302/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎯 Recruiter Section
+
+```diff
+! Codeforces Specialist (1500+)
+! LeetCode Top 7%
+! 700+ DSA problems
+! Built real trading systems
+```
+
+---
+
+# 🧠 Philosophy
+
+```text
+Markets reward discipline, not prediction.
+Execution > Ideas.
+```
+
+---
+
+<p align="center">
+🔥 Click Portfolio ↑ | Built for Quant Roles 🔥
+</p>
