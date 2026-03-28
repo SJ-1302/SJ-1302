@@ -19,7 +19,7 @@
 
 ---
 
-#  About Me
+#   About Me
 
 <p align="center">
 Quant Developer • Trader • AI Engineer • Real-Time Systems Builder
