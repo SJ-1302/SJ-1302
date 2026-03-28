@@ -17,7 +17,6 @@
 📧 <a href="mailto:shreyanshjain.cse@gmail.com">Email</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=divider"/>
 
 ---
 
@@ -34,14 +33,16 @@ Quant Developer • Trader • Real-Time Systems Builder
 
 ---
 
-# 💹 Portfolio Performance
+# 💹 Portfolio Performance 
 
 <p align="center">
-📈 <b>FY24 Return: 97%</b> • Options + Quant Strategies
+📈 <b>FY24 Return: 97%</b> • Options + Quant Strategies  
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SJ-1302&theme=tokyo-night&hide_border=true"/>
+<img src="https://img.shields.io/badge/Strategy-Options_Selling-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Risk-Managed-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Execution-Systematic-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -96,22 +97,18 @@ Quant Developer • Trader • Real-Time Systems Builder
 
 # 📊 GitHub Analytics
 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SJ-1302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SJ-1302&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SJ-1302&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📈 Activity Curve
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SJ-1302&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 # 🐍 Contribution Graph
@@ -137,10 +134,4 @@ Quant Developer • Trader • Real-Time Systems Builder
 > Markets reward discipline, not prediction.
 > Execution > Ideas.
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
-
-<p align="center">
-🔥 Built for Quant Roles | Designed to Stand Out 🔥
-</p>
