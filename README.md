@@ -23,13 +23,26 @@
 # 🌌 About Me
 
 <p align="center">
-Quant Developer • Trader • Real-Time Systems Builder
+Quant Developer • Trader • AI Engineer • Real-Time Systems Builder
 </p>
 
-* 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal
-* 📊 Options Greeks • Pricing • Risk Modeling
-* ⚡ Low-latency systems + real-time APIs
-* 🎯 Target: Quant / HFT Roles
+I am a **Computer Science (AI & ML) student at VIT Bhopal** with a strong focus on building **data-driven financial systems**. My work lies at the intersection of **quantitative finance, machine learning, and real-time system design**.
+
+I bring a unique combination of:
+
+* 📈 **8+ years of active trading experience**, applying systematic options strategies
+* 🧠 Strong foundation in **quantitative modeling**, including Options Greeks, Black-Scholes, and Monte Carlo simulations
+* ⚡ Experience building **real-time platforms**, APIs, and data pipelines
+* 📊 Practical exposure to **data analytics and predictive modeling** through internships
+
+I am particularly interested in:
+
+* Quantitative Trading & HFT Systems
+* Algorithmic Strategy Development
+* AI applications in financial markets
+
+🎯 **Goal:** To build scalable, low-latency trading systems and work at top-tier quant firms.
+
 
 ---
 
@@ -51,6 +64,71 @@ Quant Developer • Trader • Real-Time Systems Builder
 
 ---
 
+# 📜 Certifications
+
+<p align="center">
+<img src="https://img.shields.io/badge/NISM-Series_VIII-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Yale-Financial_Markets-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Akuna_Options-Options_101-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Caltech-Options_Pricing-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/IBM-Generative_AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google-Data_Analytics-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QuantInsti-EPAT_(Pursuing)-red?style=for-the-badge"/>
+</p>
+
+* 📊 **NISM Series VIII** — Certified in Equity Derivatives
+* 🎓 **Financial Markets (Yale University)** — Market structure & instruments
+* 📈 **Options 101 (Akuna Capital)** — Options strategies & risk
+* 📉 **Pricing Options (Caltech)** — Mathematical modeling of derivatives
+* 🤖 **IBM Generative AI** — Applied AI systems
+* 📊 **Google Data Analytics** — Data-driven decision making
+* ⚡ **EPAT (QuantInsti)** — Algorithmic trading *(ongoing)*
+
+---
+
+# 🚀 Featured Projects
+
+## 🔮 Real-Time Event Prediction Market
+
+**Tech:** C++, WebSockets, PostgreSQL, LLM Integration
+
+* Built a **real-time trading platform** for event-based markets
+* Integrated **LLM pipeline** to automatically detect trends and create markets
+* Designed a **dynamic pricing engine** based on sentiment and incoming data
+* 🚀 Reduced manual market creation effort by **90%**
+
+
+## 📊 Options Pricing & Greeks Dashboard
+
+**Tech:** Python, Streamlit, NSE API, Plotly
+
+* Developed a **live options analytics dashboard** using NSE option chain data
+* Implemented **Black-Scholes model with full Greeks computation**
+* Enabled traders to **analyze strategies and manage risk in real time**
+
+
+## 📉 Portfolio VaR Simulation & Backtesting
+
+**Tech:** Python, NumPy, Pandas, SciPy
+
+* Built a **quantitative risk engine** using Monte Carlo simulations
+* Calculated **VaR at 95% and 99% confidence levels**
+* Backtested using **Kupiec’s Proportion of Failures Test**
+* Validated model accuracy against real market behavior
+
+---
+
+## ⚡ Key Strength Across Projects
+
+* Real-time system design
+* Quantitative modeling & finance
+* Data pipelines & analytics
+* Practical trading application
+
+---
 
 # 📊 GitHub Analytics
 
