@@ -1,3 +1,5 @@
+<!-- ⚡ FINAL GOD-LEVEL QUANT README ⚡ -->
+
 <h1 align="center">⚡ SHREYANSH JAIN ⚡</h1>
 
 <p align="center">
@@ -11,9 +13,34 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://shreyanshjain.in"><b>shreyanshjain.in</b></a> •
-  💼 <a href="https://linkedin.com/in/shreyanshjain13">LinkedIn</a> •
-  📧 <a href="mailto:shreyanshjain.cse@gmail.com">Email</a>
+🌐 <a href="https://shreyanshjain.in"><b>Portfolio</b></a> •
+💼 <a href="https://linkedin.com/in/shreyanshjain13">LinkedIn</a> •
+📧 <a href="mailto:shreyanshjain.cse@gmail.com">Email</a>
+</p>
+
+---
+
+# 🌌 About Me
+
+<p align="center">
+Quant Developer | Trader | Builder of Real-Time Systems
+</p>
+
+* 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal
+* 📊 Options Greeks • Pricing • Risk Modeling
+* ⚡ Low-latency systems + real-time APIs
+* 🎯 Target: Quant / HFT Roles
+
+---
+
+# 💹 Portfolio Performance
+
+<p align="center">
+📈 <b>FY24 Return: 97%</b> • Options + Quant Strategies
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SJ-1302&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -21,40 +48,30 @@
 # 🟢 Live Market Pulse
 
 <p align="center">
-📊 NIFTY 50 | INDIA VIX | Market Awareness Always On ⚡
+<img src="https://img.shields.io/badge/NIFTY-Tracked-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INDIA_VIX-Volatility-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Market-Active-green?style=for-the-badge"/>
 </p>
-
----
-
-# 💹 Portfolio Performance
 
 <p align="center">
-📈 FY24 Return: 97% | Options + Quant Strategies
+⚡ Always aligned with market conditions & volatility regimes
 </p>
-
-<img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Jan','Feb','Mar','Apr','May','Jun'],datasets:[{label:'Portfolio Growth',data:[100,120,140,160,180,197]}]}}" />
-
----
-
-# 🌌 About Me
-
-```diff
-+ Quant Developer focused on Trading Systems & AI
-+ 8+ years of real market experience
-+ Builder of real-time financial platforms
-```
-
-* 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal
-* 📊 Options Greeks | Pricing | Risk Modeling
-* ⚡ Low-latency systems + real-time APIs
-* 🎯 Target: Quant / HFT Roles
 
 ---
 
 # ⚡ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,r,sql,ts,postgres,git" />
+<img src="https://skillicons.dev/icons?i=cpp,python,r,sql,ts,postgres,git,linux" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
 </p>
 
 ---
@@ -82,6 +99,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SJ-1302&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SJ-1302&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 # 🐍 Contribution Graph
@@ -94,21 +115,17 @@
 
 # 🎯 Recruiter Section
 
-```diff
-! Codeforces Specialist (1500+)
-! LeetCode Top 7%
-! 700+ DSA problems
-! Built real trading systems
-```
+* ⚡ Codeforces Specialist (1500+)
+* 🧠 LeetCode Top 7%
+* 💻 700+ DSA problems
+* 📈 Built real trading + pricing systems
 
 ---
 
 # 🧠 Philosophy
 
-```text
-Markets reward discipline, not prediction.
-Execution > Ideas.
-```
+> Markets reward discipline, not prediction.
+> Execution > Ideas.
 
 ---
 
