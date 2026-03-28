@@ -33,33 +33,6 @@ Quant Developer • Trader • Real-Time Systems Builder
 
 ---
 
-# 💹 Portfolio Performance 
-
-<p align="center">
-📈 <b>FY24 Return: 97%</b> • Options + Quant Strategies  
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Strategy-Options_Selling-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Risk-Managed-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Execution-Systematic-orange?style=for-the-badge"/>
-</p>
-
----
-
-# 🟢 Live Market Pulse
-
-<p align="center">
-<img src="https://img.shields.io/badge/NIFTY-Tracking-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INDIA_VIX-Volatility-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Market-Live-green?style=for-the-badge"/>
-</p>
-
-<p align="center">
-⚡ Market-aware execution • Volatility-driven strategies
-</p>
-
----
 
 # ⚡ Tech Arsenal
 
