@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Quant+Developer+%7C+Quant+Trader;Building+Low-Latency+Trading+Systems;C%2B%2B+%7C+Python+%7C+Finance+%7C+AI;HFT+Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Quant+Developer+%7C+Quant+Trader;Building+Low-Latency+Trading+Systems;C%2B%2B+%7C+Python+%7C+Finance+%7C+AI;Competitve+Programmer+%7C+DSA+Enthusiast"/>
 </p>
 
 <p align="center">
