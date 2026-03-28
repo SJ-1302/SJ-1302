@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Quant+Developer+%7C+ML+Engineer;Options+Trader+%7C+97%25+Return+FY24;Building+Low-Latency+Trading+Systems;C%2B%2B+%7C+Python+%7C+Finance+%7C+AI;Future+HFT+Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Quant+Developer+%7C+Quant+Trader;Building+Low-Latency+Trading+Systems;C%2B%2B+%7C+Python+%7C+Finance+%7C+AI;Future+HFT+Engineer"/>
 </p>
 
 <p align="center">
@@ -78,22 +78,6 @@ Quant Developer • Trader • Real-Time Systems Builder
 
 ---
 
-# 🚀 Featured Projects
-
-## 🔮 Real-Time Event Prediction Market
-
-* ⚡ Real-time trading platform + LLM automation
-* 📊 Dynamic pricing engine
-
-## 📊 Options Pricing Dashboard
-
-* 📡 Black-Scholes + Greeks + NSE data
-
-## 📉 Portfolio VaR Engine
-
-* 🎯 Monte Carlo VaR + backtesting
-
----
 
 # 📊 GitHub Analytics
 
